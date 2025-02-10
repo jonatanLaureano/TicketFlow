@@ -1,0 +1,109 @@
+{
+  "Events": {
+    "questions": [
+      {
+        "question": "¿Cuáles son los pases para crear un nuevo evento?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Puedo crear eventos recurrentes con fechas y horarios especificos?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Que información se requiere proporcionar al crear un evento?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      }
+    ],
+    "img": "./iconCalendar.svg"
+  },
+
+  "Login": {
+    "questions": [
+      {
+        "question": "¿Puedo utilizar mi cuenta de redes sociales?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Que información personal se requiere?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Utilizar medidas de seguridad adicionales?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      }
+    ],
+    "img": "./iconLogin.svg"
+  },
+
+  "Sales": {
+    "questions": [
+      {
+        "question": "¿Qué métodos de pagos se aceptan para comprar las entradas?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Cómo puedo comprar entradas para un evento a tráves del sistema?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      },
+      {
+        "question": "¿Puedo cancelar o reembolsar la compra de entradas en caso de que no pueda asistir al evento?",
+        "description": [
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et.",
+          "Dolore in ad laboris duis non in voluptate id aliquip pariatur adipisicing sit et."
+        ]
+      }
+    ],
+    "img": "./iconTicket.svg"
+  }
+}
