@@ -1,4 +1,4 @@
-import { Button } from "@/presentation/components/ui/button";
+import { Button } from "@/components/ui/button";
 import { TypographyP } from "@/presentation/components/shared/typography";
 
 type Props = {

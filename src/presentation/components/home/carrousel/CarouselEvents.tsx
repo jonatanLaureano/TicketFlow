@@ -4,7 +4,7 @@ import {
   CarouselItem,
   CarouselNext,
   CarouselPrevious,
-} from "@/presentation/components/ui/carousel";
+} from "@/components/ui/carousel";
 import CarouselInfo from "./CarouselInfo";
 import { events } from "../../shared/fakeapis/bd";
 import Autoplay from "embla-carousel-autoplay";

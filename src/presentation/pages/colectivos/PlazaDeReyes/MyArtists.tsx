@@ -94,8 +94,8 @@ function MyArtists() {
               </CarouselItem>
             ))}
           </CarouselContent>
-          <CarouselNext />
-          <CarouselPrevious />
+          {/* <CarouselNext />
+          <CarouselPrevious /> */}
         </Carousel>
       </div>
     </section>

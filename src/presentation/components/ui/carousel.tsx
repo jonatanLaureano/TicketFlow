@@ -52,7 +52,6 @@ const Carousel = React.forwardRef<
       plugins,
       className,
       children,
-      activeIndex,
       ...props
     },
     ref
