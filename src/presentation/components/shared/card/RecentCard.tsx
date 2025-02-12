@@ -59,14 +59,15 @@ export function RecentCard({
 						<span className='block text-xs md:text-base'>{totalAttendees}+</span>
 					</div>
 					<div className='gap-3 flex flex-col md:flex-row md:items-center items-start'>
-						<div className='flex gap-1'>
-							<CiStar size={20} />
-							<span className='text-xs md:text-base font-medium'>Me interesa</span>
-						</div>
-						<div className='flex gap-1'>
-							<SlLike size={16} />
-							<span className='text-xs md:text-base font-medium'>Asistiré</span>
-						</div>
+					<div className='flex items-center gap-1'>
+						<CiStar size={20} />
+						<span className='text-xs md:text-base font-medium'>Me interesa</span>
+					</div>
+					<div className='flex items-center gap-1'>
+						<SlLike size={15} />
+						<span className='text-xs md:text-base font-medium'>Asistiré</span>
+					</div>
+
 					</div>
 				</div>
 				
